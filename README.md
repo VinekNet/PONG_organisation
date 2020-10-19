@@ -2,8 +2,8 @@
 Début du jeu: https://dranock.github.io/unserious-game/index.html
 
 Bugs navigation:
-- URGENT https://davidborie.github.io/Unserious_game/WIN2.html (Boucle sur la dernière question du quizz)
-- URGENT https://ilyord.github.io/UNSERIOUSGAME/win2.html (Erreur 404)
+- URGENT https://davidborie.github.io/Unserious_game/WIN2.html (Boucle sur la dernière question du quizz) | Le suivant c'est : https://kpatain.github.io/UnseriusGame/
+- URGENT https://douillet.github.io/Unserious-game/index.html (Erreur 404) | Le suivant c'est : https://sparts301.github.io/unseriousgame/
 - https://dranock.github.io/unserious-game/Perdu.html (Retour au début des questions)
 - https://lmazenc34070.github.io/Unserious_game/perdu.html (Retour au début des questions)
 - https://davidborie.github.io/Unserious_game/perdu.html (Renvoie à la question deux)
@@ -13,7 +13,8 @@ Bugs navigation:
 - https://bassounet.github.io/UnseriousGamee/PERDU3.html (Retour au début des questions)
 - https://dennelbilal.github.io/Unseriousgame/perdu2.html (Retour au début des questions)
 - https://yvain16-69.github.io/unserious-game/perdu2.html (Retour au début des questions)
-
+- https://sparts301.github.io/unseriousgame/perdu.html (Retour au début des questions)
+- https://anatole-p.github.io/Programmation-HTML/perdu2.html (Reout au dbéut des questions)
 Bugs cosmétiques:
 - https://mickaelfp.github.io/Unserious_game/perdu.html (le texte violet sur fond violet est pas très lisible)
 - https://davidborie.github.io/Unserious_game/index.html
@@ -44,3 +45,7 @@ Phottes daurtograffe:
 - https://dennelbilal.github.io/Unseriousgame/question2.html
 - https://dennelbilal.github.io/Unseriousgame/quiz.html
 - https://caesardeville.github.io/UnseriousGame/Gagner2.html
+- https://sparts301.github.io/unseriousgame/
+- https://sparts301.github.io/unseriousgame/gagner.html
+- https://sparts301.github.io/unseriousgame/next-question.html
+- https://anatole-p.github.io/Programmation-HTML/perdu2.html
