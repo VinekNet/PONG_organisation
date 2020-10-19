@@ -6,5 +6,5 @@ Les coordinateurs de la semaine du 19/10 sont:
 * [Vincent GAUTHIER](https://github.com/VinekNet)
 * Romain COUTELLIER
 * Brieux CAQUELIN
-* Brieux CAQUELIN 
+* Yvain DI COSTANZO
 * Fan THOMAS ?
