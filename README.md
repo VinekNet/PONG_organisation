@@ -1,7 +1,23 @@
 # unserious_organisation
-Début du jeu: https://dranock.github.io/unserious-game/index.html
 
-Bugs navigation:
+Le but de ce repo est de maintenir notre unserious game global en bonne santé.
+
+## Semaine du 19 Nov 2020
+Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/index.html et on doit donc pouvoir jouer et revenir au même point.
+
+### Coordinateurs de la semaine
+
+* [Vincent GAUTHIER](https://github.com/VinekNet)
+* Romain COUTELLIER **TODO COORDINATEURS lien page github**
+* Brieux CAQUELIN **TODO COORDINATEURS lien page github**
+* Yvain DI COSTANZO **TODO COORDINATEURS lien page github**
+* Fan THOMAS ? **TODO COORDINATEURS compléter**
+
+### Chers créateurs de jeu voici les règles à respecter sur vos levels...
+
+**TODO COORDINATEURS écrire (ou copier/coller) ici les règles**
+
+## Bugs navigation:
 - URGENT https://davidborie.github.io/Unserious_game/WIN2.html (Boucle sur la dernière question du quizz) | Le suivant c'est : https://kpatain.github.io/UnseriusGame/
 - URGENT https://douillet.github.io/Unserious-game/index.html (Erreur 404) | Le suivant c'est : https://sparts301.github.io/unseriousgame/
 - https://dranock.github.io/unserious-game/Perdu.html (Retour au début des questions)
@@ -15,13 +31,15 @@ Bugs navigation:
 - https://yvain16-69.github.io/unserious-game/perdu2.html (Retour au début des questions)
 - https://sparts301.github.io/unseriousgame/perdu.html (Retour au début des questions)
 - https://anatole-p.github.io/Programmation-HTML/perdu2.html (Reout au dbéut des questions)
-Bugs cosmétiques:
+
+## Bugs cosmétiques:
 - https://mickaelfp.github.io/Unserious_game/perdu.html (le texte violet sur fond violet est pas très lisible)
 - https://davidborie.github.io/Unserious_game/index.html
 - https://kpatain.github.io/UnseriusGame/
 - https://yvain16-69.github.io/unserious-game/
 - https://corentin1998.github.io/unseriousgame/perdu.html
-Phottes daurtograffe:
+
+## Phottes daurtograffe:
 - https://dranock.github.io/unserious-game/index.html (c'est pas vraiment une faute d'orthographe mais aucune réponse n'est juste)
 - https://dranock.github.io/unserious-game/question2.html
 - https://lmazenc34070.github.io/Unserious_game/index.html
