@@ -9,7 +9,7 @@ Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/i
 
 * [Vincent GAUTHIER](https://github.com/VinekNet)
 * Romain COUTELLIER **TODO COORDINATEURS lien page github**
-* Brieux CAQUELIN **TODO COORDINATEURS lien page github**
+* [Brieux CAQUELIN](https://github.com/Brieux)
 * Yvain DI COSTANZO **TODO COORDINATEURS lien page github**
 * Fan THOMAS ? **TODO COORDINATEURS compléter**
 
