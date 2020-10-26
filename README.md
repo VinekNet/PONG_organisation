@@ -13,35 +13,37 @@ Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/i
 * Maxime Frere
 * 
 
+## Semaine du 26 Oct 2020
+
+* [Vincent Callede](https://github.com/Kpatain)
+* [Romain Coutellier](https://github.com/RedDarkS)
+* [Anatole Pagnucco](https://github.com/anatole-P)
+* [Gregoire Fontanelli](https://github.com/Bassounet)
+* [Anais Biscaras](https://github.com/Loulaty)
+
 ### Chers créateurs de jeu voici les règles à respecter sur vos levels...
 
 **TODO COORDINATEURS écrire (ou copier/coller) ici les règles**
 
 ## Bugs navigation:
-- URGENT https://davidborie.github.io/Unserious_game/WIN2.html (Boucle sur la dernière question du quizz) | Le suivant c'est : https://kpatain.github.io/UnseriusGame/
-- URGENT https://douillet.github.io/Unserious-game/index.html (Erreur 404) | Le suivant c'est : https://sparts301.github.io/unseriousgame/
-- https://dranock.github.io/unserious-game/Perdu.html (Retour au début des questions)
-- https://lmazenc34070.github.io/Unserious_game/perdu.html (Retour au début des questions)
-- https://davidborie.github.io/Unserious_game/perdu.html (Renvoie à la question deux)
-- https://loulaty.github.io/unserious-game/perdu.html (Retour au début des questions)
-- https://bassounet.github.io/UnseriousGamee/PERDU1.html (Retour au début des questions)
-- https://bassounet.github.io/UnseriousGamee/PERDU2.html (Retour au début des questions)
-- https://bassounet.github.io/UnseriousGamee/PERDU3.html (Retour au début des questions)
-- https://dennelbilal.github.io/Unseriousgame/perdu2.html (Retour au début des questions)
-- https://yvain16-69.github.io/unserious-game/perdu2.html (Retour au début des questions)
-- https://sparts301.github.io/unseriousgame/perdu.html (Retour au début des questions)
-- https://anatole-p.github.io/Programmation-HTML/perdu2.html (Reout au dbéut des questions)
+- https://sparts301.github.io/unseriousgame/perdu2.html (l'on ne peux pas rententer la question)
 
 ## Bugs cosmétiques:
-- https://mickaelfp.github.io/Unserious_game/perdu.html (le texte violet sur fond violet est pas très lisible)
-- https://davidborie.github.io/Unserious_game/index.html
-- https://kpatain.github.io/UnseriusGame/
-- https://yvain16-69.github.io/unserious-game/
-- https://corentin1998.github.io/unseriousgame/perdu.html
+- https://mickaelfp.github.io/Unserious_game/perdu.html (Trouver une bonne couleur pour le texte, peut être revoir le fond en une seule image au lieu d'une mozaïque)
+- https://yvain16-69.github.io/unserious-game/(retravailler le fond ? mettre une image centrée, mettre des boutons pour les réponses. Absence de la signature)
+- https://yvain16-69.github.io/unserious-game/perdu.html
+  +
+  https://yvain16-69.github.io/unserious-game/perdu2.html
+  => (choisir l'un des 2 gif, le centrer. Mettre un fond. Revoir la mise en page et l'apparence du texte. Faire le bouton)
+- https://yvain16-69.github.io/unserious-game/Win.html
+  +
+  https://yvain16-69.github.io/unserious-game/Win2.html
+  => (Centrer le gif. Mettre un fond. Revoir la mise en page et l'apparence du texte. Faire le bouton)
+- https://yvain16-69.github.io/unserious-game/index2.html(retravailler le fond ? mettre une image centrée, mettre des boutons pour les réponses. Absence de la signature)
 
 ## Phottes daurtograffe:
-- https://dranock.github.io/unserious-game/index.html (c'est pas vraiment une faute d'orthographe mais aucune réponse n'est juste)
-- https://dranock.github.io/unserious-game/question2.html
+- https://dranock.github.io/unserious-game/index.html ("S"oleil)
+- https://dranock.github.io/unserious-game/question2.html("Terre", "L"une, "bleue", évolué"s")
 - https://lmazenc34070.github.io/Unserious_game/index.html
 - https://lmazenc34070.github.io/Unserious_game/gagne.html
 - https://lmazenc34070.github.io/Unserious_game/question2.html
@@ -68,10 +70,4 @@ Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/i
 - https://sparts301.github.io/unseriousgame/next-question.html
 - https://anatole-p.github.io/Programmation-HTML/perdu2.html
 
-## Semaine du 26 Oct 2020
 
-* [Vincent Callede](https://github.com/Kpatain)
-* [Romain Coutellier](https://github.com/RedDarkS)
-* [Anatole Pagnucco](https://github.com/anatole-P)
-* [Gregoire Fontanelli](https://github.com/Bassounet)
-* [Anais Biscaras](https://github.com/Loulaty)
