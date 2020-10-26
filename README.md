@@ -2,7 +2,7 @@
 
 Le but de ce repo est de maintenir notre unserious game global en bonne santé.
 
-## Semaine du 19 Nov 2020
+## Semaine du 19 Oct 2020
 Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/index.html et on doit donc pouvoir jouer et revenir au même point.
 
 ### Coordinateurs de la semaine
@@ -68,7 +68,7 @@ Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/i
 - https://sparts301.github.io/unseriousgame/next-question.html
 - https://anatole-p.github.io/Programmation-HTML/perdu2.html
 
-## Semaine du 19 Nov 2020
+## Semaine du 26 Oct 2020
 
 * [Vincent Callede](https://github.com/Kpatain)
 * [Romain Coutellier](https://github.com/RedDarkS)
