@@ -67,3 +67,11 @@ Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/i
 - https://sparts301.github.io/unseriousgame/gagner.html
 - https://sparts301.github.io/unseriousgame/next-question.html
 - https://anatole-p.github.io/Programmation-HTML/perdu2.html
+
+## Semaine du 19 Nov 2020
+
+* [Vincent Callede](https://github.com/Kpatain)
+* [Romain Coutellier](https://github.com/RedDarkS)
+* [Anatole Pagnucco](https://github.com/anatole-P)
+* [Gregoire Fontanelli](https://github.com/Bassounet)
+* [Anais Biscaras](https://github.com/Loulaty)
