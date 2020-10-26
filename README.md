@@ -8,10 +8,10 @@ Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/i
 ### Coordinateurs de la semaine
 
 * [Vincent GAUTHIER](https://github.com/VinekNet)
-* Romain COUTELLIER **TODO COORDINATEURS lien page github**
+* Maxime Balansard
 * [Brieux CAQUELIN](https://github.com/Brieux)
-* Yvain DI COSTANZO **TODO COORDINATEURS lien page github**
-* Fan THOMAS ? **TODO COORDINATEURS compléter**
+* Maxime Frere
+* 
 
 ### Chers créateurs de jeu voici les règles à respecter sur vos levels...
 
