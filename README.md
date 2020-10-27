@@ -7,19 +7,19 @@ Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/i
 
 ### Coordinateurs de la semaine
 
-* [Vincent GAUTHIER](https://github.com/VinekNet)
+* [Vincent GAUTHIER] (https://github.com/VinekNet)
 * Maxime Balansard
-* [Brieux CAQUELIN](https://github.com/Brieux)
+* [Brieux CAQUELIN] (https://github.com/Brieux)
 * Maxime Frere
 * 
 
 ## Semaine du 26 Oct 2020
 
-* [Vincent Callede](https://github.com/Kpatain)
-* [Romain Coutellier](https://github.com/RedDarkS)
-* [Anatole Pagnucco](https://github.com/anatole-P)
-* [Gregoire Fontanelli](https://github.com/Bassounet)
-* [Anais Biscaras](https://github.com/Loulaty)
+* [Vincent Callede] (https://github.com/Kpatain)
+* [Romain Coutellier] (https://github.com/RedDarkS)
+* [Anatole Pagnucco] (https://github.com/anatole-P)
+* [Gregoire Fontanelli] (https://github.com/Bassounet)
+* [Anais Biscaras] (https://github.com/Loulaty)
 
 ### Chers créateurs de jeu voici les règles à respecter sur vos levels...
 
@@ -32,7 +32,7 @@ Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/i
 
 ## Bugs cosmétiques:
 - https://mickaelfp.github.io/Unserious_game/perdu.html (Trouver une bonne couleur pour le texte, peut être revoir le fond en une seule image au lieu d'une mozaïque)
-- https://yvain16-69.github.io/unserious-game/(retravailler le fond ? mettre une image centrée, mettre des boutons pour les réponses. Absence de la signature)
+- https://yvain16-69.github.io/unserious-game/ (retravailler le fond ? mettre une image centrée, mettre des boutons pour les réponses. Absence de la signature)
 - https://yvain16-69.github.io/unserious-game/perdu.html
   +
   https://yvain16-69.github.io/unserious-game/perdu2.html
@@ -41,18 +41,18 @@ Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/i
   +
   https://yvain16-69.github.io/unserious-game/Win2.html
   => (Centrer le gif. Mettre un fond. Revoir la mise en page et l'apparence du texte. Faire le bouton)
-- https://yvain16-69.github.io/unserious-game/index2.html(retravailler le fond ? mettre une image centrée, mettre des boutons pour les réponses. Absence de la signature)
-- https://bassounet.github.io/UnseriousGamee/index.html(il manque les boutons et la finalisation de la signature sur tout le quizz)
-- https://bassounet.github.io/UnseriousGamee/FIN.html(le titre bon ... Moyen bien même si c'est une référence)
+- https://yvain16-69.github.io/unserious-game/index2.html (retravailler le fond ? mettre une image centrée, mettre des boutons pour les réponses. Absence de la signature)
+- https://bassounet.github.io/UnseriousGamee/index.html (il manque les boutons et la finalisation de la signature sur tout le quizz)
+- https://bassounet.github.io/UnseriousGamee/FIN.html (le titre bon ... Moyen bien même si c'est une référence)
 
 ## Phottes daurtograffe (ça fait mal aux yeux):
-- https://dranock.github.io/unserious-game/question2.html(On dit toujours la planète bleue par contre déso xP)
-- https://lmazenc34070.github.io/Unserious_game/perdu2.html(manque une lettre)
-- https://davidborie.github.io/Unserious_game/WIN.html(je vais être relou mais fran"ç"ais)
-- https://bassounet.github.io/UnseriousGamee/WIN1.html(les attache"s", tu dis 2 fois la même chose dans la phrase)
-- https://bassounet.github.io/UnseriousGamee/PERDU2.html(tu sera"s")
-- https://bassounet.github.io/UnseriousGamee/FIN.html(pas de t à t'ait)
-- https://dennelbilal.github.io/Unseriousgame/index.html(ce pas se)
+- https://dranock.github.io/unserious-game/question2.html (On dit toujours la planète bleue par contre déso xP)
+- https://lmazenc34070.github.io/Unserious_game/perdu2.html (manque une lettre)
+- https://davidborie.github.io/Unserious_game/WIN.html (je vais être relou mais fran"ç"ais)
+- https://bassounet.github.io/UnseriousGamee/WIN1.html (les attache"s", tu dis 2 fois la même chose dans la phrase)
+- https://bassounet.github.io/UnseriousGamee/PERDU2.html (tu sera"s")
+- https://bassounet.github.io/UnseriousGamee/FIN.html (pas de t à t'ait)
+- https://dennelbilal.github.io/Unseriousgame/index.html (ce pas se)
 - https://dennelbilal.github.io/Unseriousgame/question2.html (suivant"e")
 - https://dennelbilal.github.io/Unseriousgame/question3.html (provien"t")
 - https://dennelbilal.github.io/Unseriousgame/quiz.html (pas de e à partie)
