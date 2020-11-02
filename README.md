@@ -1,4 +1,4 @@
-# unserious_organisation
+# PONG_organisation
 
 Le but de ce repo est de maintenir notre PONG en bonne santé.
 
