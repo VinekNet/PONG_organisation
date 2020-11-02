@@ -6,3 +6,8 @@ Le but de ce repo est de maintenir notre PONG en bonne santé.
 Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/index.html et on doit donc pouvoir jouer et revenir au même point.
 
 ### Coordinateurs de la semaine
+CHAMPOIRAL Jonas
+DOUILLET Antoine
+HENG Alexis
+MAZENC Lucas
+...
