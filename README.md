@@ -11,7 +11,7 @@ Cette semaine notre jeu commence ici: https://dranock.github.io/unserious-game/i
 * Maxime Balansard
 * [Brieux CAQUELIN] (https://github.com/Brieux)
 * Maxime Frere
-* 
+* Yvain 	DI COSTANZO
 
 ## Semaine du 26 Oct 2020
 
