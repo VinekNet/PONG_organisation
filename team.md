@@ -1,7 +1,7 @@
 | Prénom              | NOM              | GitHub                                                        | Pong                                        |
 | ------------------- |----------------  | ------------------------------------------------------------- | --------------------------------------------------------- |
 | Alexis              | HENG             | [Alexis098](https://github.com/Alexis098)                     | https://alexis098.github.io/pong/index.html    |
-| Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | pas de lien dans le readme|
+| Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | https://loulaty.github.io/pong|
 | Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | https://anatole-p.github.io/Pong/index.html|
 | Andréa              | MICHEL           | [ilyord](https://github.com/ilyord)                           |   https://ilyord.github.io/Pong/index.html       |
 | Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | https://douillet.github.io/pong/     |
