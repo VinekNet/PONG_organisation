@@ -9,8 +9,8 @@ Nous devons mettre en ligne notre repo Pong pour que tout le monde puisse y avoi
 CHAMPOIRAL Jonas, 
 DOUILLET Antoine, 
 HENG Alexis, 
-MAZENC Lucas
-...
+MAZENC Lucas 
+et BORIE David
 
 ### Personnes n'ayant pas de lien sur leur repo pour accéder à pong :
 
