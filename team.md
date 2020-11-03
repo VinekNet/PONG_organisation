@@ -14,7 +14,7 @@
 | Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)           | le lien ne mène pas à pong |
 | Loïc                | BARBATO          | [hns707](https://github.com/hns707)                           |   https://hns707.github.io/pong/          |
 | Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               | https://lmazenc34070.github.io/Pong/index.html |
-| Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       |   pas de lien dans le readme et repo vide          |
+| Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | https://maxime-balansard.github.io/pong/index.html     |
 | Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | pas de lien dans le readme et repo vide |
 | Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     |pas de lien dans le readme et repo vide|
 | Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             |pas de lien dans le readme |
