@@ -51,7 +51,13 @@ BORIE David
 
 FONTANELLI Grégoire
 
-###Commentaires manquants ( ‘ - ‘ signifie qu’ils sont manquants sur seulement un ou deux fichiers) :
+### La balle ne bouge pas :
+
+Pagnucco Anatole
+
+### Commentaires manquants ( ‘ - ‘ signifie qu’ils sont manquants sur seulement un ou deux fichiers) :
+
+
 
 Vincent Gauthier
 Romain -
