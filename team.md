@@ -7,7 +7,7 @@
 | Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | lien mène à une erreur 404     |
 | Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | pas de lien dans le readme|
 | Brieux              | CAQUELIN         | [Brieux](https://github.com/Brieux)                           | https://Brieux.github.io/Pong/index.html   |
-| Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               | lien mène vers une erreur 404 |
+| Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               | https://corentin1998.github.io/Pong/index.html |
 | David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   |  pas de lien dans le readme et repo vide  |
 | Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               |pas de lien dans le readme|
 | Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     | pas de lien dans le readme  |
