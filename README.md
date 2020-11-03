@@ -16,6 +16,11 @@ et BORIE David
 
 Pensez à mettre en ligne et pas juste copier l'url du questionnaire en changeant le nom unserious game par pong.
 
+### Repo Vide :
+
+
+
+
 ### Readme vide :
 BISCARAS Anaïs
 
@@ -40,4 +45,8 @@ PARIS Quentin
 CALLEDE Vincent
 
 DI COSTANZO Yvain
+
+###Fichier .js manquant : 
+
+FONTANELLI Grégoire
 
