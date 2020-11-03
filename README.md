@@ -16,3 +16,18 @@ et BORIE David
 
 Pensez à mettre en ligne et pas juste copier l'url du questionnaire en changeant le nom unserious game par pong.
 
+### Readme vide :
+BISCARAS Anaïs
+PAGNUCCO Anatole
+MICHEL Andréa
+DOUILLET Antoine
+DELLEL Bilal
+BORIE David
+CHATELIN Gaëtan
+FONTANELLI Grégoire
+FRERE Maxime
+JEUNE-LAPANOUZE Quentin
+PARIS Quentin
+CALLEDE Vincent
+DI COSTANZO Yvain
+
