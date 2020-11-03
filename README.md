@@ -2,6 +2,9 @@
 
 Le but de ce repo est de maintenir notre PONG en bonne santé.
 
+#### La team
+La liste des projets [est visible ici](team.md)
+
 ## Semaine du 02 au 9 Nov 2020
 Nous devons mettre en ligne notre repo Pong pour que tout le monde puisse y avoir accès ainsi qu'avoir un terrain dans lequel la balle bouge vers le coin en bas à droite.
 
