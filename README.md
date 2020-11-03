@@ -53,3 +53,19 @@ BORIE David
 
 FONTANELLI Grégoire
 
+###Commentaires manquants ( ‘ - ‘ signifie qu’ils sont manquants sur seulement un ou deux fichiers) :
+
+Vincent Gauthier
+Romain -
+Brieux
+Anatole
+Gaëtan -
+Quentin Jeune
+Bilal
+Loïc
+Gregoire
+Mickaël
+Vincent Kalede
+Yvain
+David
+
