@@ -41,11 +41,13 @@ JEUNE-LAPANOUZE Quentin
 
 PARIS Quentin
 
-CALLEDE Vincent
-
 DI COSTANZO Yvain
 
 BORIE David
+
+### lien menant à une erreur 404 :
+
+CALLEDE Vincent
 
 ### Fichier .js manquant : 
 
