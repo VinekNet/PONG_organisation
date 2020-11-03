@@ -11,7 +11,7 @@
 | David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   |  pas de lien dans le readme et repo vide  |
 | Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               |pas de lien dans le readme|
 | Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     | pas de lien dans le readme  |
-| Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)           | le lien ne mène pas à pong |
+| Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)           |https://monsieur-jonas.github.io/Pong/index.html|
 | Loïc                | BARBATO          | [hns707](https://github.com/hns707)                           |   https://hns707.github.io/pong/          |
 | Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               | https://lmazenc34070.github.io/Pong/index.html |
 | Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | https://maxime-balansard.github.io/pong/index.html     |
