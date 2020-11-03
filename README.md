@@ -47,6 +47,8 @@ CALLEDE Vincent
 
 DI COSTANZO Yvain
 
+BORIE David
+
 ### Fichier .js manquant : 
 
 FONTANELLI Grégoire
