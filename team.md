@@ -22,7 +22,7 @@
 | Romain              | COUTELLIER       | [RedDarkS](https://github.com/RedDarkS)                       | https://RedDarkS.github.io/pong/index.html |
 | Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         |  lien mène à une erreur 404                |
 | Vincent             | GAUTHIER         | [VinekNet](https://github.com/VinekNet)                       |https://vineknet.github.io/PONG/index.html |
-| Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   | https://yvain16-69.github.io/PONG/ |
+| Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   |https://yvain16-69.github.io/PONG/index.html |
 | ...       | ...         |   ... |
 | ...       | ...         |   ... |
 | ...       | ...         |   ... |
