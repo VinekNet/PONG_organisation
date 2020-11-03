@@ -17,8 +17,8 @@
 | Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | https://maxime-balansard.github.io/pong/index.html     |
 | Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | https://Sparts301.github.io/Pong |
 | Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     |https://MickaelFP.github.io/Pong/index.html|
-| Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             |pas de lien dans le readme |
-| Quentin             | PARIS            | [Quentin-Paris](https://github.com/Quentin-Paris)                   | pas de lien dans le readme      |
+| Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             |https://caesardeville.github.io/Pong/index.html |
+| Quentin             | PARIS            | [Quentin-Paris](https://github.com/Quentin-Paris)             | pas de lien dans le readme      |
 | Romain              | COUTELLIER       | [RedDarkS](https://github.com/RedDarkS)                       | https://RedDarkS.github.io/pong/index.html |
 | Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         |  lien mène à une erreur 404                |
 | Vincent             | GAUTHIER         | [VinekNet](https://github.com/VinekNet)                       |https://vineknet.github.io/PONG/index.html |
