@@ -4,7 +4,7 @@
 | Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | pas de lien dans le readme|
 | Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | https://anatole-p.github.io/Pong/index.html|
 | Andréa              | MICHEL           | [ilyord](https://github.com/ilyord)                           |   pas de lien dans le readme          |
-| Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | lien mène à une erreur 404     |
+| Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | https://douillet.github.io/pong/     |
 | Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | pas de lien dans le readme|
 | Brieux              | CAQUELIN         | [Brieux](https://github.com/Brieux)                           | https://Brieux.github.io/Pong/index.html   |
 | Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               | https://corentin1998.github.io/Pong/index.html |
