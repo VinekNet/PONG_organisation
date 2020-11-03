@@ -27,8 +27,6 @@ BORIE David
 ### Readme vide :
 BISCARAS Anaïs
 
-PAGNUCCO Anatole
-
 MICHEL Andréa
 
 DELLEL Bilal
