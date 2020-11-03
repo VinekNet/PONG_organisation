@@ -18,7 +18,7 @@
 | Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | pas de lien dans le readme et repo vide |
 | Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     |pas de lien dans le readme et repo vide|
 | Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             |pas de lien dans le readme |
-| Quentin             | PARIS            | [DranocK](https://github.com/DranocK)                         |       |
+| Quentin             | PARIS            | [DranocK](https://github.com/DranocK)                         | pas de lien dans le readme      |
 | Romain              | COUTELLIER       | [RedDarkS](https://github.com/RedDarkS)                       | pas de lien dans le readme |
 | Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         |  pas de lien dans le readme                |
 | Vincent             | GAUTHIER         | [VinekNet](https://github.com/VinekNet)                       |https://vineknet.github.io/PONG/index.html |
