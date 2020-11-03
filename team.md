@@ -1,28 +1,28 @@
 | Prénom              | NOM              | GitHub                                                        | Pong                                        |
 | ------------------- |----------------  | ------------------------------------------------------------- | --------------------------------------------------------- |
 | Alexis              | HENG             | [Alexis098](https://github.com/Alexis098)                     | https://alexis098.github.io/pong/index.html    |
-| Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | |
-| Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | |
-| Andréa              | MICHEL           | [ilyord](https://github.com/ilyord)                           |             |
-| Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       |      |
-| Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | |
-| Brieux              | CAQUELIN         | [Brieux](https://github.com/Brieux)                           |    |
-| Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               |  |
-| David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                  |    |
-| Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               ||
-| Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     |   |
-| Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)           | |
-| Loïc                | BARBATO          | [hns707](https://github.com/hns707)                           |             |
-| Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               |  |
-| Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       |             |
-| Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     |  |
-| Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     ||
-| Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             | |
+| Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | pas de lien dans le readme|
+| Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | pas de lien dans le readme|
+| Andréa              | MICHEL           | [ilyord](https://github.com/ilyord)                           |   pas de lien dans le readme          |
+| Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | lien mène à une erreur 404     |
+| Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | pas de lien dans le readme|
+| Brieux              | CAQUELIN         | [Brieux](https://github.com/Brieux)                           | https://Brieux.github.io/Pong/index.html   |
+| Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               | lien mène vers une erreur 404 |
+| David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   |  pas de lien dans le readme et repo vide  |
+| Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               |pas de lien dans le readme|
+| Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     | pas de lien dans le readme  |
+| Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)           | le lien ne mène pas à pong |
+| Loïc                | BARBATO          | [hns707](https://github.com/hns707)                           |   https://hns707.github.io/pong/          |
+| Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               | https://lmazenc34070.github.io/Pong/index.html |
+| Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       |   pas de lien dans le readme et repo vide          |
+| Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | pas de lien dans le readme et repo vide |
+| Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     |pas de lien dans le readme et repo vide|
+| Quentin             | JEUNE-LAPANOUZE  | [CaesarDeVille](https://github.com/CaesarDeVille)             |pas de lien dans le readme |
 | Quentin             | PARIS            | [DranocK](https://github.com/DranocK)                         |       |
-| Romain              | COUTELLIER       | [RedDarkS](https://github.com/RedDarkS)                       |  |
-| Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         |                  |
-| Vincent             | GAUTHIER         | [VinekNet](https://github.com/VinekNet)                       | |
-| Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   |  |
+| Romain              | COUTELLIER       | [RedDarkS](https://github.com/RedDarkS)                       | pas de lien dans le readme |
+| Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         |  pas de lien dans le readme                |
+| Vincent             | GAUTHIER         | [VinekNet](https://github.com/VinekNet)                       |https://vineknet.github.io/PONG/index.html |
+| Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   | pas de lien dans le readme |
 | ...       | ...         |   ... |
 | ...       | ...         |   ... |
 | ...       | ...         |   ... |
