@@ -20,6 +20,8 @@ Pensez à mettre en ligne et pas juste copier l'url du questionnaire en changean
 
 FRERE Maxime
 
+BORIE David
+
 
 
 ### Readme vide :
@@ -30,8 +32,6 @@ PAGNUCCO Anatole
 MICHEL Andréa
 
 DELLEL Bilal
-
-BORIE David
 
 CHATELIN Gaëtan
 
