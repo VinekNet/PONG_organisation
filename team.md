@@ -2,7 +2,7 @@
 | ------------------- |----------------  | ------------------------------------------------------------- | --------------------------------------------------------- |
 | Alexis              | HENG             | [Alexis098](https://github.com/Alexis098)                     | https://alexis098.github.io/pong/index.html    |
 | Anaïs               | BISCARAS         | [Loulaty](https://github.com/Loulaty)                         | pas de lien dans le readme|
-| Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | pas de lien dans le readme|
+| Anatole             | PAGNUCCO         | [anatole-P](https://github.com/anatole-P)                     | https://anatole-p.github.io/Pong/index.html|
 | Andréa              | MICHEL           | [ilyord](https://github.com/ilyord)                           |   pas de lien dans le readme          |
 | Antoine             | DOUILLET         | [Douillet](https://github.com/Douillet)                       | lien mène à une erreur 404     |
 | Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | pas de lien dans le readme|
