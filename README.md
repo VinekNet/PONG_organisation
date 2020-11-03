@@ -18,6 +18,7 @@ Pensez à mettre en ligne et pas juste copier l'url du questionnaire en changean
 
 ### Repo Vide :
 
+FRERE Maxime
 
 
 
@@ -46,7 +47,7 @@ CALLEDE Vincent
 
 DI COSTANZO Yvain
 
-###Fichier .js manquant : 
+### Fichier .js manquant : 
 
 FONTANELLI Grégoire
 
