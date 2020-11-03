@@ -13,13 +13,6 @@ MAZENC Lucas
 ...
 
 ### Personnes n'ayant pas de lien sur leur repo pour accéder à pong :
+
 Pensez à mettre en ligne et pas juste copier l'url du questionnaire en changeant le nom unserious game par pong.
 
- - Antoine Douillet (le lien mène vers une erreur 404)
- - Andrea Michel (pas de lien dans le readme)
- - Anaïs Biscara (pas de lien dans le readme)
- - Quentin Paris (pas de lien dans le readme)
- - Romain Coutellier (pas de lien dans le readme)
- - Anatole Pagnucco (pas de lien dans le readme)
- - Gaëtan Chatelain (pas de lien dans le readme)
- - 
