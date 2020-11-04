@@ -19,32 +19,10 @@ et BORIE David
 
 Pensez à mettre en ligne et pas juste copier l'url du questionnaire en changeant le nom unserious game par pong.
 
-### Repo Vide :
-
-FRERE Maxime
-
-BORIE David
-
-
 
 ### Readme vide :
-BISCARAS Anaïs
-
-MICHEL Andréa
-
-DELLEL Bilal
-
-CHATELIN Gaëtan
-
-FONTANELLI Grégoire
-
-FRERE Maxime
-
-JEUNE-LAPANOUZE Quentin
 
 PARIS Quentin
-
-DI COSTANZO Yvain
 
 BORIE David
 
@@ -60,9 +38,6 @@ FONTANELLI Grégoire
 
 Pagnucco Anatole
 
-### Il n'y a pas de balle dans le terrain :
-
-Yvain Di Costanzo
 
 ### Commentaires manquants ( ‘ - ‘ signifie qu’ils sont manquants sur seulement un ou deux fichiers) :
 
