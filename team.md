@@ -8,7 +8,7 @@
 | Bilal               | DENNEL           | [dennelbilal](https://github.com/dennelbilal)                 | https://dennelbilal.github.io/Pong/index.html|
 | Brieux              | CAQUELIN         | [Brieux](https://github.com/Brieux)                           | https://Brieux.github.io/Pong/index.html   |
 | Corentin            | HABIB            | [Corentin1998](https://github.com/Corentin1998)               | https://corentin1998.github.io/Pong/index.html |
-| David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   |  pas de lien dans le readme et repo vide  |
+| David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   |  pas de lien dans le readme  |
 | Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               | https://SpaceGarbage.github.io/Pong/index.html|
 | Grégoire            | FONTANELLI       | [Bassounet](https://github.com/Bassounet)                     | https://bassounet.github.io/PONG/|
 | Jonas               | CHAMPOIRAL       | [monsieur-jonas](https://github.com/monsieur-jonas)           | https://monsieur-jonas.github.io/Pong/index.html|
