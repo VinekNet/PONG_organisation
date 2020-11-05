@@ -51,7 +51,7 @@ Bilal
 Loïc
 Gregoire
 Mickaël
-Vincent Kalede
+Vincent Callede
 Yvain
 David
 
