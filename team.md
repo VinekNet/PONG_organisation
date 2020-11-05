@@ -21,7 +21,7 @@
 | Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | https://maxime-balansard.github.io/pong/index.html     |
 | Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | https://Sparts301.github.io/Pong |
 | Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   |https://yvain16-69.github.io/PONG/index.html |
-| Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         |  lien mène à une erreur 404                |
+| Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         | https://kpatain.github.io/pong/index.html    |
 | David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   |  pas de lien dans le readme  |
 | ...       | ...         |   ... |
 | ...       | ...         |   ... |
