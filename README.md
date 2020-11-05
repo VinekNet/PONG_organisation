@@ -22,7 +22,6 @@ Pensez à mettre en ligne et pas juste copier l'url du questionnaire en changean
 
 ### Readme vide :
 
-
 BORIE David
 
 ### lien menant à une erreur 404 :
@@ -35,7 +34,7 @@ FONTANELLI Grégoire
 
 ### La balle ne bouge pas :
 
-Pagnucco Anatole
+Quentin Paris
 
 
 ### Commentaires manquants ( ‘ - ‘ signifie qu’ils sont manquants sur seulement un ou deux fichiers) :
