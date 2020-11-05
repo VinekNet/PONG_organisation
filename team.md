@@ -4,6 +4,7 @@
 | Romain              | COUTELLIER       | [RedDarkS](https://github.com/RedDarkS)                       | https://RedDarkS.github.io/pong/index.html |
 | Vincent             | GAUTHIER         | [VinekNet](https://github.com/VinekNet)                       |https://vineknet.github.io/PONG/index.html |
 | Loïc                | BARBATO          | [hns707](https://github.com/hns707)                           | https://hns707.github.io/pong/          |
+| Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         | https://kpatain.github.io/pong/index.html    |
 | Gaëtan              | CHATELIN         | [SpaceGarbage](https://github.com/SpaceGarbage)               | https://SpaceGarbage.github.io/Pong/index.html|
 | Mickaël             | FLAESCH-PERREAU  | [MickaelFP](https://github.com/MickaelFP)                     |https://MickaelFP.github.io/Pong/index.html|
 | Lucas               | MAZENC           | [Lmazenc34070](https://github.com/Lmazenc34070)               | https://lmazenc34070.github.io/Pong/index.html |
@@ -21,7 +22,6 @@
 | Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | https://maxime-balansard.github.io/pong/index.html     |
 | Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | https://Sparts301.github.io/Pong |
 | Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   |https://yvain16-69.github.io/PONG/index.html |
-| Vincent             | CALLEDE          | [Kpatain](https://github.com/Kpatain)                         | https://kpatain.github.io/pong/index.html    |
 | David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   |  pas de lien dans le readme  |
 | ...       | ...         |   ... |
 | ...       | ...         |   ... |
