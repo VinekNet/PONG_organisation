@@ -24,14 +24,6 @@ Pensez à mettre en ligne et pas juste copier l'url du questionnaire en changean
 
 BORIE David
 
-### lien menant à une erreur 404 :
-
-CALLEDE Vincent
-
-### Fichier .js manquant : 
-
-FONTANELLI Grégoire
-
 ### La balle ne bouge pas :
 
 Quentin Paris
