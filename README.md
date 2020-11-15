@@ -86,6 +86,7 @@ HABIB Corentin.
 Vincent	GAUTHIER;
 Loïc	BARBATO;
 Quentin	JEUNE-LAPANOUZE;
+Maxime	BALANSARD;
 
 ### Incohérences dans l'utilisation des commentaires ou de son code (" /* ", " // ", surcharge ou manque de commentaire, ...):
 
@@ -98,6 +99,9 @@ Anatole	PAGNUCCO;
 Bilal	DENNEL;
 Corentin	HABIB;
 Grégoire	FONTANELLI;
+Maxime	BALANSARD;
+Yvain	DI COSTANZO;
+David	BORIE.
 
 ### Un ou plusieurs objectifs non atteints:
 
@@ -107,21 +111,29 @@ Quentin	JEUNE-LAPANOUZE;
 Anaïs	BISCARAS;
 Bilal	DENNEL;
 Corentin	HABIB;
+Maxime	BALANSARD;
+Maxime	FRERE;
+David	BORIE.
 
 _ Les raquettes n'ont pas été intégrées, ou ne respectents pas une ou plusieurs de leurs conditions souhaitées (taille, positionnement, nombre, mouvement...):
 
 Gaëtan	CHATELIN;
 Quentin	JEUNE-LAPANOUZE;
+Maxime	FRERE;
+David	BORIE.
 
 _ Les bordures gauche et droite du terrain sont toujours visibles:
 
 Andréa	MICHEL;
+David	BORIE.
 
 _ La balle dépasse du terrain à droite et/ou en bas:
 
 Quentin	JEUNE-LAPANOUZE (condition non vérifiable);
 Bilal	DENNEL;
+Maxime	FRERE (condition non vérifiable);
+David	BORIE (condition non vérifiable).
 
 ### La page du Pong ne s'affiche pas (le remplissage des objectifs n'a pas pu être confirmé):
 
-Quentin	PARIS;
+Quentin	PARIS.
