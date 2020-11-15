@@ -86,7 +86,7 @@ HABIB Corentin.
 Vincent	GAUTHIER;
 Loïc	BARBATO;
 Quentin	JEUNE-LAPANOUZE;
-Maxime	BALANSARD;
+Maxime	BALANSARD.
 
 ### Incohérences dans l'utilisation des commentaires ou de son code (" /* ", " // ", surcharge ou manque de commentaire, ...):
 
