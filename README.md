@@ -49,7 +49,7 @@ David
 
 ## Semaine du 09 au 15 Nov 2020
 
-Consignes générales. On attend de vous que:
+### Consignes générales. On attend de vous que:
 
 _ votre projet respecte ce qui a été fait en cours;
 
@@ -61,7 +61,7 @@ _ votre code Javascript et CSS soit bien indenté et commenté avec vos propres 
 
 _ votre code javascript respecte les conventions décrites un peu partout ici.
 
-Objectifs de la semaine. Vous devez:
+### Objectifs de la semaine. Vous devez:
 
 _ faire démarrer la balle dans une direction ou dans l'autre aléatoirement (aléatoire en anglais ça se dit...);
 
