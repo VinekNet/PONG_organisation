@@ -73,9 +73,55 @@ _ faire bouger les raquettes toutes seules de haut en bas open_mouth;
 
 _ faire en sorte que la balle ne dépasse pas du terrain à droite et en bas (soustraction de la taille de la balle).
 
-### Coordinateurs de la semaine
+### Coordinateurs de la semaine:
+
 BARBATO Loïc, 
 PARIS Quentin,
 FLAESCH-PERREAU Mickaël,
 CHATELAIN Gaëtan,
 HABIB Corentin.
+
+### Incohérences d'indentations:
+
+Vincent	GAUTHIER;
+Loïc	BARBATO;
+Quentin	JEUNE-LAPANOUZE;
+
+### Incohérences dans l'utilisation des commentaires ou de son code (" /* ", " // ", surcharge ou manque de commentaire, ...):
+
+Vincent	GAUTHIER;
+Lucas	MAZENC;
+Alexis	HENG;
+Quentin	JEUNE-LAPANOUZE;
+Quentin	PARIS;
+Anatole	PAGNUCCO;
+Bilal	DENNEL;
+Corentin	HABIB;
+Grégoire	FONTANELLI;
+
+### Un ou plusieurs objectifs non atteints:
+
+_ La balle ne démarre pas dans une direction et/ou dans l'autre aléatoirement:
+
+Quentin	JEUNE-LAPANOUZE;
+Anaïs	BISCARAS;
+Bilal	DENNEL;
+Corentin	HABIB;
+
+_ Les raquettes n'ont pas été intégrées, ou ne respectents pas une ou plusieurs de leurs conditions souhaitées (taille, positionnement, nombre, mouvement...):
+
+Gaëtan	CHATELIN;
+Quentin	JEUNE-LAPANOUZE;
+
+_ Les bordures gauche et droite du terrain sont toujours visibles:
+
+Andréa	MICHEL;
+
+_ La balle dépasse du terrain à droite et/ou en bas:
+
+Quentin	JEUNE-LAPANOUZE (condition non vérifiable);
+Bilal	DENNEL;
+
+### La page du Pong ne s'affiche pas (le remplissage des objectifs n'a pas pu être confirmé):
+
+Quentin	PARIS;
