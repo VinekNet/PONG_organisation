@@ -158,3 +158,19 @@ Samedi 21 Nov dans la nuit du matin
 - faire rebondir la balle sur les raquettes
 - si la balle passe à côté des raquettes, on remet la balle au centre (X et Y) et c'est reparti
 
+### Un ou plusieurs objectifs non atteints:
+_ dans le setInterval 3 lignes seulement:
+
+_ contrôler les raquettes gauche et droite respectivement avec les touches A/Q et P/M du clavier:
+
+_ getters sur bas et droite (balle et raquettes):
+
+_ setters sur bas et droite (balle et raquettes):
+
+_ faire rebondir la balle sur les raquettes:
+
+_ si la balle passe à côté des raquettes, on remet la balle au centre (X et Y) et c'est reparti:
+
+### Commentaires manquants ( ‘ - ‘ signifie qu’ils sont manquants sur seulement un ou deux fichiers) :
+
+### ERREUR DANS LA MATRICE ET RIEN NE CHARGE:
