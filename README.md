@@ -160,7 +160,19 @@ Samedi 21 Nov dans la nuit du matin
 
 ### Un ou plusieurs objectifs non atteints:
 _ dans le setInterval 3 lignes seulement:
-
+  Vincent Gauthier
+  Gaetan Chatelain
+  Mickaël Flaesch-Perreau
+  Lucas Mazenc
+  Anatole Pagnucco
+  Andrea Michel
+  Bilal Dennel
+  Corentin Habib
+  Jonas Champoiral
+  Maxime Balansard
+  Yvain Di Costanzo
+  David Borie (je trouve pas le set intervalle dans pong.js)
+  
 _ contrôler les raquettes gauche et droite respectivement avec les touches A/Q et P/M du clavier:
 
 _ getters sur bas et droite (balle et raquettes):
@@ -174,3 +186,8 @@ _ si la balle passe à côté des raquettes, on remet la balle au centre (X et Y
 ### Commentaires manquants ( ‘ - ‘ signifie qu’ils sont manquants sur seulement un ou deux fichiers) :
 
 ### ERREUR DANS LA MATRICE ET RIEN NE CHARGE:
+Quentin Jeune
+Quentin Paris
+Bilal Dennel
+Andréa Michel
+David Borie
