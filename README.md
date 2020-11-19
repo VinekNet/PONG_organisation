@@ -189,18 +189,31 @@ _ si la balle passe à côté des raquettes, on remet la balle au centre (X et Y
 ### Erreur de contrôle des raquettes et de rebond sur les raquettes :
 
 Vincent Gauthier - pas de controles pas de rebond.
+
 Loïc - pas de rebond et mauvais binding des touches de la raquette gauche ("z-s" au lieu de "a-q").
+
 Gaétan - pas de controles pas de rebond.
+
 Lucas Mazenc - pas de contrôles pas de rebond.
+
 Mickael - pas de contrôles pas de rebond.
+
 Anaïs - la balle sort de l'ecran en bas à droite et pas de contrôles (j'ai pas pu vérifier les rebonds du coup).
+
 Anantole - pas de contrôles pas de rebond.
+
 Antoine - Bug quand la balle touche le bord et pas de contrôles pas de rebond.
+
 Corentin - Raquette décalée et pas de contrôles pas de rebond.
+
 Grégoire - pas de rebond.
+
 Jonas - pas de contrôles pas de rebond.
+
 Maxime	BALANSARD - pas de contrôles pas de rebond.
+
 Maxime	FRERE - Rien en bouge.
+
 Yvain - Raquettes décalé et rien en bouge.
 
 
