@@ -233,7 +233,7 @@ Maxime	FRERE - Rien en bouge.
 Yvain - Raquettes décalé et rien en bouge.
 
 
-### ERREUR DANS LA MATRICE ET RIEN NE CHARGE:
+### PAGE BLANCHE OU RIEN NE BOUGE:
 Quentin Jeune
 Quentin Paris
 Bilal Dennel
